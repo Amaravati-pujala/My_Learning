@@ -1,12 +1,13 @@
 # Introduction to DevOps:
 
-### What is DevOps?
+As the technology landscape continues to shift, the demand for quicker and more reliable software delivery becomes even more imminent. Enter DevOps: an innovation designed to bridge the gap between software development and IT operations. 
+
+### :point_right: What is DevOps? 
+
+![image](https://github.com/user-attachments/assets/a19281bc-0aea-4a45-9cab-33f5dca922e9)
 
 DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). Its goal is to shorten the software development life cycle and provide continuous delivery with high software quality.
 
-
-![image](https://github.com/user-attachments/assets/153fba5f-2f9a-4df6-bc66-dcc95496eb75)
-]
 
 #### In Simple Terms:
 
@@ -22,7 +23,7 @@ Imagine a restaurant where the chefs (developers) prepare food and the waitstaff
 In the world of software, this means the team can deliver new features and updates faster, fix problems more quickly, and ensure the software runs smoothly for users.
 
 
-### Why we have Devops?
+### :point_right: Why we have Devops?
 
 We have DevOps to make the process of creating, testing, and releasing software faster and more efficient. Here are the main reasons in simple terms:
 
@@ -41,7 +42,7 @@ Automating repetitive tasks frees up time for the team to focus on more importan
 With faster updates and fewer bugs, users have a better experience with the software.
 
 
-### When and where  we use devops ?
+### :point_right: When and where  we use devops ?
 
 We use DevOps in any organization that develops and maintains software to streamline and improve the process. It’s especially useful when quick, reliable updates and strong collaboration between development and operations teams are needed.
 
