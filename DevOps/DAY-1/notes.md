@@ -4,7 +4,8 @@
 
 DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). Its goal is to shorten the software development life cycle and provide continuous delivery with high software quality.
 
-! [ [image](https://github.com/user-attachments/assets/25bf85c7-8c61-4399-ad4d-8bcd75d4d456)
+![image](https://github.com/user-attachments/assets/604bd5ac-bb26-420b-920b-c35dd546df2c)
+](https://github.com/user-attachments/assets/25bf85c7-8c61-4399-ad4d-8bcd75d4d456)
 
 
 #### In Simple Terms:
