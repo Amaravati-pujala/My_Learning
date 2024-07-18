@@ -4,8 +4,9 @@
 
 DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). Its goal is to shorten the software development life cycle and provide continuous delivery with high software quality.
 
-! [ [image](https://github.com/user-attachments/assets/25bf85c7-8c61-4399-ad4d-8bcd75d4d456)
 
+![image](https://github.com/user-attachments/assets/153fba5f-2f9a-4df6-bc66-dcc95496eb75)
+]
 
 #### In Simple Terms:
 
@@ -38,6 +39,11 @@ Automating repetitive tasks frees up time for the team to focus on more importan
 
 #### User Satisfaction: 
 With faster updates and fewer bugs, users have a better experience with the software.
+
+
+### When and where  we use devops ?
+
+We use DevOps in any organization that develops and maintains software to streamline and improve the process. It’s especially useful when quick, reliable updates and strong collaboration between development and operations teams are needed.
 
 
 
